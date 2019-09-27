@@ -1,3 +1,14 @@
 # Description of your program (part 7)
+# I would design a program that could identify and keep track of places where there wasn't a character
+# i.e. where there was a space. I would make a variable that represented the number of words and start
+# it at zero. Every time the program encountered a space, it would increase the words variable by one.
+# This would work for a document that was just a paragraph of words. There would need to be a variety of
+# exceptions and edge cases for documents that weren't just a paragraph of words to account for
+# line breaks, indented quotation formatting, etc.
 
 # Reflection on writing your program (part 8)
+# This exercise is actually exactly what previous coding classes have instructed us to do to save
+# time in the code building process. In practice, I'm terrible at waiting through sufficient brainstorming -
+# I usually start coding as soon as I think I have a solid idea (usually ends up how you think it might).
+# I hope to get a really good foundation on Python as it's a language I want to learn and one that will
+# be valuable in future career opportunities.
